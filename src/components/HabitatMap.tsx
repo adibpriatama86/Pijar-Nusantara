@@ -62,7 +62,7 @@ export const HabitatMap: React.FC<HabitatMapProps> = ({ onSelectHabitat, onSelec
           className="inline-flex items-center gap-2 bg-accentSky-light border-2 border-accentSky text-darkslate px-4 py-1.5 rounded-full mb-3 shadow-sm font-semibold"
         >
           <Compass className="w-5 h-5 text-sunset animate-spin-slow" />
-          <span>Kurikulum Merdeka - IPA &amp; IPS Kelas 3-5 SD</span>
+          <span>Kurikulum Merdeka - IPA &amp; IPS Kelas 3-4 SD</span>
         </motion.div>
         
         <h2 className="text-3xl md:text-5xl font-black text-darkslate-dark tracking-tight leading-none mb-4">
